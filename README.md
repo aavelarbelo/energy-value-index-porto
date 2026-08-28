@@ -1,4 +1,4 @@
-# 🏡 Property Price Analysis – Porto – Andressa Avelar Belo
+# 🏡 Energy Value Index – Porto – Andressa Avelar Belo
 
 Projeto focado em análise de preços imobiliários, estudos comparativos entre regiões, fatores socioeconômicos e modelos preditivos simples aplicados ao mercado habitacional do Porto.
 Este repositório foi criado para demonstrar competências técnicas relevantes para funções como Data Analyst, Business Analytics, Research Analyst, Real Estate Analytics e Data Engineering (nível introdutório).
@@ -16,12 +16,12 @@ Este repositório foi criado para demonstrar competências técnicas relevantes 
 ---
 
 ## 📦 Estrutura do Repositório
-property-price-analysis-porto/
+energy-value-index-porto/
 │── datasets/
 │   └── raw_data.csv
 │
 │── notebooks/
-│   └── eda_property_prices.ipynb
+│   └── eda_energy-value-index.ipynb
 │
 │── images/
 │   └── mapas/
